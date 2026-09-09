@@ -25,7 +25,7 @@
 <div align="center">
 
 [![Studies](https://img.shields.io/badge/📚%20Studies-Cybersecurity-0A66C2?style=for-the-badge)](https://github.com/hotplug1n/studies)
-[![Mini SOC Lab](https://img.shields.io/badge/🛡️%20Mini%20SOC%20Lab-Project-111111?style=for-the-badge)](https://github.com/hotplug1n/studies/tree/main/projects/mini-soc-lab)
+[![Mini SOC Lab](https://img.shields.io/badge/🛡️%20Mini%20SOC%20Lab-Project-111111?style=for-the-badge)](https://github.com/hotplug1n/mini-soc-lab)
 
 </div>
 
@@ -36,7 +36,7 @@ Networking · Linux · Nmap · Web Security
 Burp Suite · Wireshark · Cryptography
 Windows · Active Directory · Exploitation
 Blue Team · SOC · Splunk · OSINT
-Git Security · TryHackMe · Security Projects
+Git Security · TryHackMe
 ```
 
 🔗 **[Acessar meus Studies →](https://github.com/hotplug1n/studies)**
@@ -146,7 +146,7 @@ Projeto defensivo em Python que analisa eventos de autenticação e gera alertas
 
 **Stack:** Python · Linux · Blue Team · Log Analysis
 
-🔗 **[Ver projeto →](https://github.com/hotplug1n/studies/tree/main/projects/mini-soc-lab)**
+🔗 **[Ver projeto →](https://github.com/hotplug1n/mini-soc-lab)**
 
 ---
 
