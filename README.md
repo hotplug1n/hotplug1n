@@ -6,7 +6,7 @@
 
 ### `Cibersegurança` · `Blue Team` · `SOC` · `Linux` · `Networking`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;AppSec+%7C+OWASP+%7C+Secure+Coding;Build+fast.+Ship+secure.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Cyber+Security;React+%7C+Next.js+%7C+Node.js+%7C+Python;AppSec+%7C+OWASP+%7C+Secure+Coding;Build+fast.+Ship+secure.+Repeat." alt="Typing SVG" />
 
 <br>
 
