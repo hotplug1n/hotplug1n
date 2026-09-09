@@ -1,7 +1,7 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E_+hotplug1n" alt="hotplug1n" />
-
+<p align="center">
+  <img src="./header.svg" width="700">
+</p>
 ### `Cibersegurança` · `Blue Team` · `SOC` · `Linux` · `Networking`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Cyber+Security;React+%7C+Next.js+%7C+Node.js+%7C+Python;AppSec+%7C+OWASP+%7C+Secure+Coding;Build+fast.+Ship+secure.+Repeat." alt="Typing SVG" />
