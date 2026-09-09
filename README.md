@@ -18,6 +18,30 @@
 
 ---
 
+# 📚 Studies
+
+> **Minha base de estudos em Cybersecurity** — anotações, conceitos, ferramentas, laboratórios e write-ups organizados por área.
+
+<div align="center">
+
+[![Studies](https://img.shields.io/badge/📚%20Studies-Cybersecurity-0A66C2?style=for-the-badge)](https://github.com/hotplug1n/studies)
+
+</div>
+
+### O que você vai encontrar
+
+```text
+Networking · Linux · Nmap · Web Security
+Burp Suite · Wireshark · Cryptography
+Exploitation · Windows · Active Directory
+Blue Team · SOC · Splunk · OSINT
+Git Security · TryHackMe
+```
+
+🔗 **[Acessar meus Studies →](https://github.com/hotplug1n/studies)**
+
+---
+
 ## `$ whoami`
 
 Sou desenvolvedor **Fullstack** com foco em construir aplicações modernas, escaláveis e seguras.
