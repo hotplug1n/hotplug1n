@@ -1,0 +1,31 @@
+<svg width="700" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .blink {
+      animation: blink 1.2s steps(1, end) infinite;
+    }
+
+    @keyframes blink {
+      0%, 45% {
+        opacity: 1;
+      }
+      50%, 100% {
+        opacity: 0;
+      }
+    }
+
+    text {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 38px;
+      font-weight: 700;
+      fill: #00ff9c;
+    }
+  </style>
+
+  <rect width="700" height="100" rx="12" fill="#050505"/>
+
+  <text x="50%" y="62"
+        text-anchor="middle"
+        class="blink">
+    &gt;_ hotplug1n
+  </text>
+</svg>
