@@ -210,10 +210,6 @@ CTFs / Security Labs
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=hotplug1n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotplug1n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hotplug1n&theme=tokyonight&hide_border=true" />
