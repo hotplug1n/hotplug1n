@@ -2,439 +2,322 @@
 
 # `>_ hotplug1n`
 
-### 🔐 Cibersegurança • 🛡️ Blue Team • 🐧 Linux • 🌐 Redes
+### `Cibersegurança` · `Blue Team` · `SOC` · `Linux` · `Networking`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=estudante+de+ciberseguran%C3%A7a;blue+team+%7C+soc+%7C+threat+detection;linux+%7C+networking+%7C+siem;aprenda.+detecte.+defenda.+repita." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Blue+Team+%7C+SOC+%7C+SIEM;Networking+%7C+Linux+%7C+Threat+Detection;Learning+through+labs+and+projects" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/hotplug1n">
-<img src="https://img.shields.io/badge/GitHub-hotplug1n-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linux.org/">
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Blue%20Team-111111?style=for-the-badge&logo=shield&logoColor=00FF9C" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hotplug1n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-martins-581500431/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.hotplug1n)
+[![Profile Views](https://komarev.com/ghpvc/?username=hotplug1n&style=flat-square&color=00FF9C&label=PROFILE+VIEWS)](https://github.com/hotplug1n)
 
 </div>
 
 ---
+
+## `$ whoami`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  user          : hotplug1n                                   │
+│  field         : cybersecurity                               │
+│  focus         : blue team / soc / detection                 │
+│  environment   : linux                                       │
+│  interests     : networks / security / automation            │
+│  status        : learning                                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+Sou estudante de **cibersegurança**, focado em construir uma base sólida em **defesa, detecção e resposta**.
+
+Meu objetivo é compreender como sistemas, redes e aplicações funcionam para identificar comportamentos suspeitos, analisar eventos e desenvolver soluções de segurança cada vez mais eficientes.
+
+Atualmente, meus principais focos são **Blue Team, SOC, SIEM, análise de logs, networking, Linux, threat detection e incident response**.
+
+---
+
+# `01` · Áreas de interesse
 
 <div align="center">
 
-## `whoami`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Defensive Security
+
+```text
+SOC
+SIEM
+Threat Detection
+Log Analysis
+IOC Analysis
+Security Monitoring
+Threat Hunting
+Incident Response
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Technical Foundations
+
+```text
+Networking
+Linux
+TCP/IP
+DNS
+HTTP / HTTPS
+System Administration
+Python
+Web Security
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  user          : hotplug1n                           │
-│  role          : cybersecurity student              │
-│  focus         : blue team / soc / detection         │
-│  environment   : linux                               │
-│  specialization: defensive security                  │
-│  status        : learning                            │
-│  mindset       : always curious                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-> "segurança não é um destino. é uma mentalidade."
-
-Sou estudante de **cibersegurança**, interessado em compreender como sistemas, redes e aplicações funcionam e como podem ser protegidos.
-
-Meu foco principal está em **Blue Team, SOC, SIEM, análise de logs, redes, Linux, threat detection e resposta a incidentes**.
-
 ---
 
-# 🧠 sobre mim
-
-```text
-🔐 Cibersegurança
-🛡️ Blue Team
-🔵 SOC
-🌐 Networking
-🐧 Linux
-📊 SIEM
-🔎 Threat Detection
-📁 Log Analysis
-🚨 Incident Response
-💻 Desenvolvimento
-🤖 Automação
-```
-
-### foco atual
-
-- 🛡️ Blue Team
-- 🔵 SOC
-- 📊 SIEM
-- 🔎 Threat Detection
-- 🌐 Redes de computadores
-- 🐧 Linux
-- 📁 Análise de logs
-- 🚨 Resposta a incidentes
-- 🔐 Web Security
-- 🐍 Python
-
----
-
-# ⚔️ áreas de estudo
+# `02` · Cybersecurity Stack
 
 <div align="center">
 
-| Área | Progresso |
-| :--- | :---: |
-| 🛡️ Blue Team | █████████░ 90% |
-| 🌐 Networking | ████████░░ 80% |
-| 🐧 Linux | ████████░░ 80% |
-| 🔎 Threat Detection | ███████░░░ 70% |
-| 📊 SIEM | ███████░░░ 70% |
-| 🔵 SOC | ███████░░░ 70% |
-| 🔐 Web Security | ██████░░░░ 60% |
-| 🐍 Python | ██████░░░░ 60% |
+### Development
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode" />
 
-> Os níveis acima representam meu foco e estágio atual de aprendizado.
+<br><br>
 
----
-
-# 🛠️ tecnologias & ferramentas
-
-## 💻 programação
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,java,python,git,github,vscode" />
-
-</p>
-
-## 🐧 sistemas
-
-<p align="center">
+### Systems & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
 
-</p>
+<br><br>
 
-## 🔐 cybersecurity
+### Security Tools
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/John%20the%20Ripper-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat-square" />
 
 </div>
 
 ---
 
-# 🌐 networking
+# `03` · Security Map
 
 ```text
-NETWORKING
-│
-├── TCP/IP
-├── UDP
-├── DNS
-├── HTTP / HTTPS
-├── ICMP
-├── ARP
-├── MAC
-├── Portas
-├── Serviços
-├── Sub-redes
-├── Routing
-└── Packet Analysis
+                         CYBERSECURITY
+                               │
+            ┌──────────────────┼──────────────────┐
+            │                  │                  │
+            ▼                  ▼                  ▼
+        DEFENSE             NETWORKS            SYSTEMS
+            │                  │                  │
+            ├─ SOC             ├─ TCP/IP          ├─ Linux
+            ├─ SIEM            ├─ DNS             ├─ Bash
+            ├─ Detection       ├─ HTTP            ├─ SSH
+            ├─ Logging         ├─ Routing         ├─ Processes
+            ├─ Investigation   ├─ Traffic         ├─ Services
+            └─ Response        └─ Analysis        └─ Permissions
 ```
 
 ---
 
-# 🐧 linux
+# `04` · Learning Path
+
+<details>
+<summary><b>🛡️ Blue Team / SOC</b></summary>
+
+<br>
 
 ```text
-LINUX
-│
-├── Shell
-├── Bash
-├── Permissões
-├── Processos
-├── Serviços
-├── SSH
-├── Sistema de arquivos
-├── Networking
-├── Administração
-└── Troubleshooting
+[x] Security fundamentals
+[x] Basic log analysis
+[x] SIEM fundamentals
+[x] Alert analysis
+[ ] Detection engineering
+[ ] Threat hunting
+[ ] Incident response
+[ ] Advanced investigation
 ```
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🌐 Networking</b></summary>
+
+<br>
+
+```text
+[x] TCP/IP
+[x] UDP
+[x] DNS
+[x] HTTP / HTTPS
+[x] Ports & Services
+[x] Basic packet analysis
+[ ] Routing in greater depth
+[ ] Advanced traffic analysis
+```
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🐧 Linux</b></summary>
+
+<br>
+
+```text
+[x] Shell
+[x] File system
+[x] Permissions
+[x] Processes
+[x] Services
+[x] SSH
+[ ] Advanced administration
+[ ] Advanced automation
+```
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🔎 Threat Detection</b></summary>
+
+<br>
+
+```text
+[x] Logs
+[x] IOC fundamentals
+[x] Security events
+[x] Alert triage
+[ ] Detection rules
+[ ] Threat hunting
+[ ] Detection engineering
+```
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🌐 Web Security</b></summary>
+
+<br>
+
+```text
+[x] HTTP fundamentals
+[x] Web architecture
+[x] Requests & responses
+[ ] Authentication
+[ ] Session security
+[ ] API security
+[ ] Advanced application security
+```
+
+</details>
 
 ---
 
-# 🛡️ blue team
-
-```text
-BLUE TEAM
-│
-├── SOC
-├── SIEM
-├── Log Analysis
-├── IOC Analysis
-├── Threat Detection
-├── Alert Triage
-├── Threat Hunting
-├── Security Monitoring
-├── Incident Response
-└── Investigation
-```
-
----
-
-# 📊 fluxo de detecção
+# `05` · Security Workflow
 
 <div align="center">
 
 ```text
-                    ┌──────────────┐
-                    │    EVENTO    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   COLETA     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │ NORMALIZAÇÃO │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │ CORRELAÇÃO   │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │  DETECÇÃO    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    ALERTA    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │ INVESTIGAÇÃO │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   RESPOSTA   │
-                    └──────────────┘
+┌─────────────┐
+│    EVENT    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    LOG      │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ CORRELATION │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│  DETECTION  │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    ALERT    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ INVESTIGATE │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   RESPOND   │
+└─────────────┘
 ```
 
 </div>
 
 ---
 
-# 🔬 laboratório
+# `06` · Security Lab
 
 Grande parte do meu aprendizado acontece através de **laboratórios, ambientes controlados e projetos práticos**.
 
 ```text
-┌─────────────────────────────────────────────┐
-│                SECURITY LAB                 │
-├─────────────────────────────────────────────┤
-│                                             │
-│ 🐧 Linux                                    │
-│ 🌐 Networking                               │
-│ 🔎 Wireshark                                │
-│ 📊 Splunk                                   │
-│ 🛡️ Blue Team                                 │
-│ 🔐 Web Security                              │
-│ 📁 Log Analysis                              │
-│ 🧪 Virtual Machines                          │
-│ 🚨 Incident Investigation                    │
-│ 🤖 Security Automation                       │
-│                                             │
-└─────────────────────────────────────────────┘
+SECURITY LAB
+│
+├── 🐧 Linux
+├── 🌐 Networking
+├── 🔎 Packet Analysis
+├── 📊 SIEM
+├── 🛡️ Blue Team
+├── 🔐 Web Security
+├── 📁 Log Analysis
+├── 🧪 Virtual Machines
+├── 🚨 Incident Investigation
+└── 🤖 Security Automation
 ```
 
-> Testes de segurança devem ser realizados somente em ambientes próprios, laboratórios ou sistemas onde exista autorização.
+> Testes de segurança são realizados apenas em ambientes próprios, laboratórios ou sistemas onde exista autorização.
 
 ---
 
-# 📚 jornada de aprendizado
+# `07` · TryHackMe
 
-<details>
-<summary><b>🌐 redes</b></summary>
+<div align="center">
 
-<br>
+<a href="https://tryhackme.com/p/.hotplug1n">
+<img src="https://img.shields.io/badge/TryHackMe-%40.hotplug1n-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
-### fundamentos
+<br><br>
 
-- TCP/IP
-- UDP
-- DNS
-- HTTP/HTTPS
-- ARP
-- ICMP
-- Portas
-- Serviços
-- Sub-redes
-- Routing
-- Packet Analysis
+<img src="https://tryhackme-badges.s3.amazonaws.com/.hotplug1n.png" alt="TryHackMe Badge" />
 
-### objetivos
-
-```text
-[x] entender comunicação entre hosts
-[x] compreender portas e serviços
-[x] estudar protocolos
-[ ] aprofundar routing
-[ ] aprofundar análise avançada de tráfego
-```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🐧 linux</b></summary>
-
-<br>
-
-### fundamentos
-
-- Shell
-- Bash
-- Processos
-- Serviços
-- Permissões
-- Sistema de arquivos
-- SSH
-- Networking
-- Administração
-- Troubleshooting
-
-### objetivos
-
-```text
-[x] navegar pelo sistema
-[x] utilizar shell
-[x] trabalhar com permissões
-[x] gerenciar processos
-[ ] aprofundar administração
-[ ] automação avançada
-```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🛡️ blue team</b></summary>
-
-<br>
-
-### estudos
-
-- SOC
-- SIEM
-- Log Analysis
-- IOC Analysis
-- Threat Detection
-- Alert Triage
-- Threat Hunting
-- Security Monitoring
-- Incident Response
-- Investigation
-
-### objetivos
-
-```text
-[x] compreender conceitos de defesa
-[x] estudar logs
-[x] estudar SIEM
-[ ] aprofundar threat hunting
-[ ] aprofundar incident response
-[ ] criar regras de detecção
-```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🔐 web security</b></summary>
-
-<br>
-
-### estudos
-
-- HTTP
-- APIs
-- Autenticação
-- Sessões
-- Headers
-- Cookies
-- Segurança de aplicações
-- Análise de vulnerabilidades
-
-### objetivos
-
-```text
-[x] compreender HTTP
-[x] estudar aplicações web
-[ ] aprofundar APIs
-[ ] aprofundar autenticação
-[ ] construir laboratório web
-```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🔎 threat detection</b></summary>
-
-<br>
-
-### estudos
-
-- IOC
-- TTP
-- Logs
-- Alertas
-- Correlação
-- Comportamento suspeito
-- Análise de tráfego
-- Investigação
-
-### objetivos
-
-```text
-[x] estudar indicadores
-[x] analisar eventos
-[ ] criar detecções
-[ ] threat hunting
-[ ] detection engineering
-```
-
-</details>
+</div>
 
 ---
 
-# 🚀 projetos
+# `08` · Projects
 
 <div align="center">
 
@@ -446,9 +329,9 @@ Grande parte do meu aprendizado acontece através de **laboratórios, ambientes 
 
 ### 🛡️ Security Lab
 
-Ambiente para estudar:
+Ambiente pessoal para praticar:
 
-**Linux • Redes • Segurança • Monitoramento • Detecção**
+`Linux` · `Networking` · `Security` · `Detection`
 
 </td>
 
@@ -456,9 +339,9 @@ Ambiente para estudar:
 
 ### 📊 SOC Lab
 
-Laboratório focado em:
+Laboratórios focados em:
 
-**Logs • SIEM • Alertas • Investigação • Resposta**
+`Logs` · `SIEM` · `Alerts` · `Investigation`
 
 </td>
 
@@ -470,9 +353,9 @@ Laboratório focado em:
 
 ### 🤖 Security Automation
 
-Projetos voltados para:
+Projetos utilizando programação para:
 
-**Python • Automação • Análise • Monitoramento**
+`Automation` · `Analysis` · `Monitoring`
 
 </td>
 
@@ -482,7 +365,7 @@ Projetos voltados para:
 
 Estudos relacionados a:
 
-**HTTP • APIs • Autenticação • AppSec**
+`HTTP` · `APIs` · `Authentication` · `AppSec`
 
 </td>
 
@@ -494,89 +377,211 @@ Estudos relacionados a:
 
 ---
 
-# 🗺️ roadmap
+# `09` · Roadmap
 
 ```text
 2026
 │
-├── ████████████████████ Fundamentos
+├── ████████████████████  Fundamentals
 │
-├── ██████████████████░░ Redes
+├── ██████████████████░░  Networking
 │
-├── ████████████████░░░░ Linux
+├── █████████████████░░░  Linux
 │
-├── ██████████████░░░░░░ Cybersecurity
+├── ███████████████░░░░░  Cybersecurity
 │
-├── █████████████░░░░░░░ Blue Team
+├── ██████████████░░░░░░  Blue Team
 │
-├── ███████████░░░░░░░░░ SOC
+├── ████████████░░░░░░░░  SOC
 │
-├── █████████░░░░░░░░░░░ SIEM
+├── ██████████░░░░░░░░░░  SIEM
 │
-├── ███████░░░░░░░░░░░░░ Threat Hunting
+├── ████████░░░░░░░░░░░░  Threat Hunting
 │
-├── ██████░░░░░░░░░░░░░░ Incident Response
+├── ██████░░░░░░░░░░░░░░  Incident Response
 │
-└── █████░░░░░░░░░░░░░░░ Detection Engineering
+└── █████░░░░░░░░░░░░░░░  Detection Engineering
 ```
 
 ---
 
-# 📈 evolução
+# `10` · Knowledge Map
 
 ```text
-        APRENDER
-           │
-           ▼
-        PRATICAR
-           │
-           ▼
-        ANALISAR
-           │
-           ▼
-       DOCUMENTAR
-           │
-           ▼
-        MELHORAR
-           │
-           └───────────────┐
-                           │
-                           ▼
-                        REPETIR
+                         SECURITY
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+          NETWORKS         LINUX         APPLICATIONS
+             │              │              │
+             ▼              ▼              ▼
+          TRAFFIC         HOSTS           WEB
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                         LOGGING
+                            │
+                            ▼
+                           SIEM
+                            │
+                            ▼
+                       DETECTION
+                            │
+                            ▼
+                      INVESTIGATION
+                            │
+                            ▼
+                         RESPONSE
 ```
 
 ---
 
-# 🧠 filosofia
+# `11` · Learning Loop
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  01. entender antes de executar              │
-│                                               │
-│  02. aprender fazendo                         │
-│                                               │
-│  03. estudar o ataque para melhorar a defesa  │
-│                                               │
-│  04. documentar o aprendizado                 │
-│                                               │
-│  05. questionar tudo                           │
-│                                               │
-│  06. continuar evoluindo                      │
-│                                               │
-└───────────────────────────────────────────────┘
+             ┌──────────────┐
+             │    LEARN     │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │   PRACTICE   │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │   ANALYZE    │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │  DOCUMENT    │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │   IMPROVE    │
+             └──────┬───────┘
+                    │
+                    └──────────────► REPEAT
 ```
 
 ---
 
-# 🧩 mindset
+# `12` · GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hotplug1n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotplug1n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hotplug1n&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# `13` · Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hotplug1n&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# `14` · Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# `15` · GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hotplug1n&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+# `16` · Terminal
+
+```bash
+$ whoami
+hotplug1n
+
+$ uname -o
+GNU/Linux
+
+$ cat objective.txt
+
+Build strong foundations in cybersecurity.
+Understand systems.
+Understand networks.
+Detect threats.
+Respond effectively.
+
+$ cat mindset.txt
+
+learn
+analyze
+detect
+defend
+document
+repeat
+
+$ systemctl status motivation
+
+● motivation.service
+   Loaded: enabled
+   Active: running
+
+$ echo $STATUS
+
+LEARNING...
+```
+
+---
+
+# `17` · Philosophy
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  01  Understand before executing                             │
+│                                                              │
+│  02  Learn by doing                                          │
+│                                                              │
+│  03  Understand the attack to improve the defense             │
+│                                                              │
+│  04  Document what you learn                                 │
+│                                                              │
+│  05  Question assumptions                                     │
+│                                                              │
+│  06  Keep improving                                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `18` · Mindset
 
 ```python
 class CybersecurityStudent:
 
     def __init__(self):
-        self.mindset = "always_learning"
-
         self.focus = [
             "blue_team",
             "soc",
@@ -601,195 +606,61 @@ class CybersecurityStudent:
 
 ---
 
-# 💻 terminal
-
-```bash
-$ whoami
-hotplug1n
-
-$ pwd
-/home/hotplug1n
-
-$ cat objective.txt
-
-tornar-me um profissional de cibersegurança
-com foco em defesa, detecção e resposta.
-
-$ cat mindset.txt
-
-learn
-analyze
-detect
-defend
-repeat
-
-$ systemctl status motivation
-
-● motivation.service
-   Loaded: enabled
-   Active: running
-
-$ echo $STATUS
-
-LEARNING...
-```
-
----
-
-# 📊 github stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hotplug1n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotplug1n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hotplug1n&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hotplug1n&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 contribution snake
-
-<div align="center">
-
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 📦 arsenal
-
-<div align="center">
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| 🌐 Networking | Nmap • Wireshark |
-| 🐧 Linux | Bash • SSH |
-| 📊 SIEM | Splunk |
-| 🔐 Web Security | Burp Suite |
-| 🧪 Security Testing | Metasploit |
-| 🔎 Analysis | Wireshark • Logs |
-| 🔑 Hash / Password | John the Ripper |
-| 💻 Development | Python • Java |
-| 🌎 Web | HTML • CSS |
-| 🗃️ Version Control | Git • GitHub |
-
-</div>
-
----
-
-# 🎯 metas
+# `19` · Current Objectives
 
 ```text
-[x] aprender fundamentos de redes
-[x] estudar Linux
-[x] começar cybersecurity
-[x] estudar ferramentas de análise
-[x] começar Blue Team
-[x] estudar SIEM
+[x] Networking fundamentals
+[x] Linux fundamentals
+[x] Cybersecurity fundamentals
+[x] Security tooling
+[x] Blue Team fundamentals
+[x] SIEM fundamentals
 
-[ ] aprofundar SOC
-[ ] aprofundar Threat Hunting
-[ ] aprofundar Incident Response
-[ ] criar regras de detecção
-[ ] construir ferramentas próprias
-[ ] criar projetos de segurança
-[ ] contribuir para open source
-[ ] evoluir continuamente
+[ ] Advanced SOC
+[ ] Threat Hunting
+[ ] Detection Engineering
+[ ] Incident Response
+[ ] Security Automation
+[ ] Build security-focused projects
+[ ] Contribute to open source
 ```
 
 ---
 
-# 🔥 foco atual
+# `20` · Contact
 
 <div align="center">
 
-```text
-██████████████████████████████████████████████
+<a href="https://www.linkedin.com/in/yuri-martins-581500431/">
+<img src="https://img.shields.io/badge/LinkedIn-Yuri%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-                    BLUE TEAM
-                       │
-                       ▼
-                      SOC
-                       │
-                       ▼
-                     SIEM
-                       │
-                       ▼
-               THREAT DETECTION
-                       │
-                       ▼
-                INVESTIGATION
-                       │
-                       ▼
-               INCIDENT RESPONSE
+&nbsp;
 
-██████████████████████████████████████████████
-```
+<a href="https://tryhackme.com/p/.hotplug1n">
+<img src="https://img.shields.io/badge/TryHackMe-.hotplug1n-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
-</div>
-
----
-
-# 📫 contato
-
-<div align="center">
+&nbsp;
 
 <a href="https://github.com/hotplug1n">
-<img src="https://img.shields.io/badge/GitHub-hotplug1n-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br><br>
-
-<a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://img.shields.io/badge/Email-contato-00FF9C?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-hotplug1n-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 👾 visitantes
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hotplug1n&style=for-the-badge&label=VISITANTES" />
-
-</div>
-
----
-
-<div align="center">
-
-## `> segurança é uma jornada, não um destino.`
 
 ```text
-████████████████████████████████████████████████████
-
-              DEFEND. DETECT. LEARN. REPEAT.
-
-████████████████████████████████████████████████████
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│               DEFEND · DETECT · LEARN · REPEAT             │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
-⭐ **Se algum projeto meu for útil, deixe uma estrela.**
+### `> security is a discipline.`
 
 </div>
